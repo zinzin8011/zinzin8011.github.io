@@ -45,9 +45,25 @@ nav{
   margin-right:10px !important;
 }
 
+.red-bar {
+  margin-top:20px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 15px;
+  width:95%;
+  background-color: rgba(255, 0, 25, 1);
+  border-radius: 20px 20px 0px 0px;
+}
+
+
 .wrap-item{
+  /*padding-top:10px;*/
+  /*background-color: rgba(255, 255, 255, 0.3);*/
+}
+
+.wrap-item2{
   padding-top:10px;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.6);
 }
 
 .jumbotron{
@@ -116,7 +132,7 @@ nav{
 }
 
 .cards-section {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 video { 
     position: fixed;
