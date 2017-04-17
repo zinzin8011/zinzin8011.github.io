@@ -55,12 +55,6 @@ nav{
   border-radius: 20px 20px 0px 0px;
 }
 
-
-.wrap-item{
-  /*padding-top:10px;*/
-  /*background-color: rgba(255, 255, 255, 0.3);*/
-}
-
 .wrap-item2{
   padding-top:10px;
   background-color: rgba(255, 255, 255, 0.6);
@@ -172,7 +166,6 @@ footer {
 
 @media (max-width: 768px) {
   a {
-    /*text-decoration:none !important;*/
     color: blue;
   }
   
@@ -210,11 +203,7 @@ footer {
     padding: 8px;
   }
   
-  video{
-    display: none;
-  }
-  
-  .video-section {
+  .video-section{
     display: none;
   }
 }
